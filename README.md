@@ -23,13 +23,14 @@ Busco constantemente aprender novas tecnologias, participar de projetos desafiad
             src="https://custom-icon-badges.demolab.com/github/followers/gabrielcamargogsilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/gabriel-camargo-50784b303">
+    <a href="https://www.linkedin.com/in/gabriel-camargo-50784b303">
     <img 
       alt="LinkedIn"
       title="Veja meu perfil do Linkedin" 
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" 
     />
-  </a>
+</a>
+
 </p>
 
 ---
