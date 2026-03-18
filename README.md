@@ -1,133 +1,108 @@
-###
-# 👩🏻‍💻 Gabriel Camargo
+# 👨‍💻 Gabriel Camargo
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Full Stack em formação`**
 
-Me chamo Gabriel Camargo Gonçalves Silva, tenho 17 anos e sou natural de Itapeva, São Paulo. Concluí o curso técnico em **Desenvolvimento de Sistemas pelo SENAI** e atualmente curso o **ensino superior em Análise e Desenvolvimento de Sistemas**, também pelo SENAI.
+Sou Gabriel Camargo Gonçalves Silva, tenho 17 anos e sou de Itapeva - SP, atualmente morando em Sorocaba - SP.  
+🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI  
+📚 Graduando em Análise e Desenvolvimento de Sistemas  
 
-Atuo como desenvolvedor full stack em formação, com foco principal em **back-end utilizando Python**. Também desenvolvo interfaces web com **HTML, CSS, Tailwind CSS e JavaScript**. Possuo experiência com bancos de dados **relacionais (MySQL)** e **não relacionais (Firebase)**, além da **criação e consumo de APIs** para integração de sistemas.
+Atuo com foco em **back-end com Python**, e atualmente também estou **aprofundando meus estudos em Java**, desenvolvendo APIs e integrações.  
+Também construo interfaces com **HTML, CSS, Tailwind e JavaScript**, além de possuir **conhecimentos básicos em React e React Native**.
 
-Já participei de projetos acadêmicos envolvendo **desenvolvimento de sistemas, arquitetura de redes e criação de sites para empresas**, sempre buscando boas práticas, organização de código e aprendizado contínuo.
+Tenho experiência com:
+- 🔗 Desenvolvimento e consumo de APIs  
+- 🗄️ Bancos de dados (MySQL, PostgreSQL e Firebase)  
+- 🌐 Criação de sistemas web  
+- 🧠 Lógica de programação e boas práticas  
 
-Busco constantemente evoluir como profissional, aprender novas tecnologias e participar de projetos desafiadores na área da tecnologia.
+Busco evoluir continuamente e participar de projetos que gerem impacto real.
+
+---
+
+## 🌐 Conecte-se comigo
 
 <p align="left">
     <a href="https://github.com/gabrielcamargogsilva?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gabrielcamargogsilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+        <img src="https://custom-icon-badges.demolab.com/github/stars/gabrielcamargogsilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
     <a href="https://github.com/gabrielcamargogsilva?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gabrielcamargogsilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        <img src="https://custom-icon-badges.demolab.com/github/followers/gabrielcamargogsilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github"/>
     </a>
     <a href="https://www.linkedin.com/in/gabriel-camargo-dev">
-        <img 
-          alt="LinkedIn"
-          title="Veja meu perfil do Linkedin" 
-          src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" 
-        />
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+### 💻 Linguagens & Back-end
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+<br/>
 
+### 🌐 Front-end
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 
-<img
-    align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" 
-/>
+<br/>
 
+### ⚛️ Bibliotecas & Frameworks
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
 
+<br/>
+
+### 🗄️ Banco de Dados
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+
+<br/>
+
+### ⚙️ Ferramentas & DevOps
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
+
+## 📊 Estatísticas
 
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielcamargogsilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrielcamargogsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcamargogsilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
+  
+  <img 
+    align="left" 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcamargogsilva&theme=tokyonight&layout=compact&langs_count=6"
   />
-
 </p>
+
+<br clear="both"/>
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor back-end e participar da construção de sistemas escaláveis, eficientes e bem estruturados.
+
+---
+
+## ⚡ Em constante evolução
+
+- 📌 Estudando Java  
+- 📌 Docker e ambientes conteinerizados  
+- 📌 PostgreSQL  
+- 📌 Aprofundando em React e React Native  
+- 📌 Boas práticas e arquitetura de software  
